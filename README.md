@@ -1,5 +1,4 @@
-md
-Copy code
+
 # Dự án SmartHome Basic Kit – Kế hoạch Quản lý Dự án
 
 ## 1. Mô tả dự án
@@ -25,4 +24,4 @@ Dự án lập kế hoạch quản lý cho hệ thống IoT cơ bản gồm:
 - GitHub Projects (Kanban + Timeline)
 - Milestones
 
-🔗 Link bảng quản lý dự án (GitHub Project): …
+🔗 Link bảng quản lý dự án (GitHub Project): https://github.com/nglongvu1812/Smarthome-Basickit
