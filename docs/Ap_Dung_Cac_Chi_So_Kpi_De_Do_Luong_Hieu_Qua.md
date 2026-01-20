@@ -1,4 +1,3 @@
-````md
 # 1. Áp dụng các Chỉ số KPI để Đo lường Hiệu quả
 
 Việc áp dụng các chỉ số **KPI (Key Performance Indicators)** nhằm đánh giá mức độ hiệu quả của dự án **SmartHome Basic Kit** theo các khía cạnh **tiến độ, chất lượng, chi phí và hiệu quả làm việc nhóm**. Các KPI này giúp nhóm dự án theo dõi, kiểm soát và điều chỉnh kế hoạch kịp thời trong suốt quá trình thực hiện, đặc biệt ở giai đoạn **Pilot Run (sản xuất thử nghiệm)**.
