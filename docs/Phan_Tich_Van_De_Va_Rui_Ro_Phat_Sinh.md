@@ -1,4 +1,3 @@
-```md
 # I. Phân tích Vấn đề của Dự án
 
 ## 1. Vấn đề tổng thể của đề tài
