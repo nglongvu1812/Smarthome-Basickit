@@ -41,7 +41,7 @@ Nhóm dự án sử dụng các công cụ giao tiếp sau:
 - **Họp trực tiếp/Online (Zoom, Google Meet):** Thảo luận các vấn đề quan trọng.
 - **Nhóm chat (Zalo, Messenger):** Trao đổi nhanh công việc hằng ngày.
 - **Email:** Giao tiếp chính thức với giảng viên và nhà cung cấp.
-- **Công cụ quản lý dự án (Trello, Asana):** Theo dõi tiến độ và phân công công việc.
+- **Công cụ quản lý dự án (Github):** Theo dõi tiến độ và phân công công việc.
 - **Tài liệu dùng chung (Google Drive):** Lưu trữ và chia sẻ tài liệu dự án.
 
 ---
@@ -51,7 +51,7 @@ Nhóm dự án sử dụng các công cụ giao tiếp sau:
 | Nội dung giao tiếp | Đối tượng | Hình thức | Tần suất | Người chịu trách nhiệm |
 |---|---|---|---|---|
 | Họp nhóm dự án | Toàn bộ nhóm | Họp trực tiếp/Online | Hàng tuần | Trưởng nhóm |
-| Cập nhật tiến độ công việc | Nhóm dự án | Trello/Asana | Hằng ngày | Từng thành viên |
+| Cập nhật tiến độ công việc | Nhóm dự án | Github | Hằng ngày | Từng thành viên |
 | Báo cáo tiến độ | Giảng viên hướng dẫn | Email/Báo cáo | 2–3 tuần/lần | Trưởng nhóm |
 | Thảo luận vấn đề kỹ thuật | Nhóm phần cứng & phần mềm | Chat/Họp ngắn | Khi cần | Trưởng nhóm kỹ thuật |
 | Liên hệ nhà cung cấp | Nhà cung cấp | Email/Điện thoại | Khi cần | Phụ trách mua sắm |
