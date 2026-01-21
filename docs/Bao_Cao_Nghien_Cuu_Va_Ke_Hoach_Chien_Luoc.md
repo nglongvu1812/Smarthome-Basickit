@@ -5,7 +5,7 @@
 ---
 
 ## 1. Tái định nghĩa Phạm vi và Mục tiêu Dự án  
-### (Scope Redefinition – Tái định nghĩa phạm vi)
+### (Scope Redefinition)
 
 Việc nâng cấp dự án lên quy mô **Pilot Run** đòi hỏi sự thay đổi triệt để trong **Cấu trúc Phân chia Công việc (WBS)** và các tiêu chí nghiệm thu.  
 Phạm vi dự án không còn giới hạn ở việc *“làm cho mạch chạy được”* mà mở rộng sang *“làm cho 50 mạch chạy giống hệt nhau và ổn định”*.
